@@ -5,7 +5,7 @@ Predicting personalized loan interest rates using data-driven insights from the 
 
 ## Background
 
-In the rapidly evolving fintech sector, efficient risk assessment and personalized loan offerings are essential for enhancing customer satisfaction and maintaining profitability. This project, as part of a capstone exercise, involves analyzing peer-to-peer loan data to understand the factors influencing loan interest rates and building predictive models to guide loan term personalization.
+In the rapidly evolving fintech sector, efficient risk assessment and personalized loan offerings are essential for improving customer satisfaction and maintaining profitability. This project involves analyzing peer-to-peer (P2P) loan data to understand the factors influencing loan interest rates and building predictive models to guide loan term personalization.
 
 
 ## Objectives
@@ -13,12 +13,12 @@ In the rapidly evolving fintech sector, efficient risk assessment and personaliz
 1. **Import & preprocess** the Bondora P2P Loans dataset.
 2. **Perform exploratory data analysis (EDA)** to uncover key customer and loan patterns.
 3. **Visualize insights** to support decision-making and risk profiling.
-4. **Develop predictive models** to estimate loan interest rates based on borrower characteristics.
+4. **Develop predictive models** to estimate loan interest rates based on borrower characteristics using both simple and multiple linear regression models.
 
 
 ## Data
 
-- **Source:** Bondora P2P Loans (Provided within the course environment)
+- **Source:** Bondora P2P Loans dataset (Kaggle): https://www.kaggle.com/datasets/marcobeyer/bondora-p2p-loans?select=LoanData.csv
 - **Features:**
   | Feature                               | Description                                      |
   |---------------------------------------|--------------------------------------------------|
