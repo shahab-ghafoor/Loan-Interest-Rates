@@ -5,7 +5,7 @@ Predicting personalized loan interest rates using data-driven insights from the 
 
 ## Background
 
-In the rapidly evolving fintech sector, efficient risk assessment and personalized loan offerings are essential for improving customer satisfaction and maintaining profitability. This project involves analyzing peer-to-peer (P2P) loan data to understand the factors influencing loan interest rates and building predictive models to guide loan term personalization.
+In the rapidly evolving fintech sector, efficient risk assessment and personalized loan offerings are crucial for enhancing customer satisfaction and maintaining profitability. This project entails analyzing peer-to-peer (P2P) loan data to identify the factors influencing loan interest rates and developing predictive models to inform loan term personalization.
 
 
 ## Objectives
